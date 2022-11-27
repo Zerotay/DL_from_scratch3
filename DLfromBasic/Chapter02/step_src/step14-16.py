@@ -3,7 +3,6 @@ from typing import List, Tuple
 # class Function: pass
 
 
-
 class Variable:
     def __init__(self, data: np.ndarray):
         if data is not None:
